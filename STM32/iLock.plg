@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+E:\LiuYuhan\Study\USTB\Junior\ilock\V1.2\iLock.uv2
+Project File Date:  09/18/2015
+
+<h2>Output:</h2>
+Build target 'iLock'
+compiling main.c...
+--- Error: failed to execute 'BIN31\ArmCC'
+Target not created
+Build target 'iLock'
+compiling main.c...
+--- Error: failed to execute 'BIN31\ArmCC'
+Target not created
+Build target 'iLock'
+compiling main.c...
+--- Error: failed to execute 'BIN31\ArmCC'
+Target not created
+Build target 'iLock'
+compiling main.c...
+--- Error: failed to execute 'BIN31\ArmCC'
+Target not created
+Build target 'iLock'
+compiling main.c...
+--- Error: failed to execute 'BIN31\ArmCC'
+Target not created
